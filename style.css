@@ -60,7 +60,7 @@
   font-size: 16px;
   font-weight: 400;
 }
-.footer {
+.sign {
   display: flex;
     flex-flow: row nowrap;
     align-items: center;
